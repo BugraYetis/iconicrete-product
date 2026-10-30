@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Iconicrete
+# 🧱 Iconicrete
 
 **Ürün Tanıtımı · Çimsa Beton Ürünleri**
 
